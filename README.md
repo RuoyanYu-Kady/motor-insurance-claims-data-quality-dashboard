@@ -5,6 +5,11 @@ An end-to-end insurance analytics project using **Python, SQL, Excel and Tableau
 The project uses the publicly available **freMTPL2 French Motor Third-Party Liability insurance dataset** and focuses on both **data quality** and **insurance risk analytics**.
 
 ---
+## Interactive Dashboard
+
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ruoyan.yu/viz/MotorInsuranceClaimsDataQualityRiskAnalyticsDashboard/1?publish=yes)
+
+---
 
 ## Dashboard Preview
 
