@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SQLite
+database/*.db
+database/*.db-journal
+
+# Tableau temporary/cache files
+*.hyper
+*.tfl
+*.tflx
+
+# Temporary files
+*.tmp
+*.log
